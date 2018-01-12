@@ -257,7 +257,8 @@
     { "addr": "0x514910771af9ca656af840dff83e8264ecf986ca", "name": "LINK", "decimals": 18 },
     { "addr": "0x9b11efcaaa1890f6ee52c6bb7cf8153ac5d74139", "name": "ATM", "decimals": 8 },
     { "addr": "0xdcb9ff81013c31ff686154b4502ef6bfaa102d2d", "name": "GOOC", "decimals": 8 },
-    { "addr": "0x13ea82d5e1a811f55bda9c86fdd6195a6bd23aed", "name": "TFT", "decimals": 8 }
+    { "addr": "0x13ea82d5e1a811f55bda9c86fdd6195a6bd23aed", "name": "TFT", "decimals": 8 },
+    { "addr": "0xFAcd5De4385E7Fd9558C1bdBB5373f3F4a0f9a50", "name": "TREE", "decimals": 2 }
   ],
   "defaultPair": { "token": "MTH", "base": "ETH" },
   "pairs": [
